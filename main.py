@@ -1,4 +1,3 @@
-import urllib.request
 import requests
 
 from aiogram import Bot, Dispatcher, executor, types
